@@ -1,6 +1,6 @@
-# Statoil C-CORE Iceberg-Classifier Challenge
+# Statoil/C-CORE Iceberg-Classifier Challenge
 
-A take on the Statoil Iceberg Classifier Challenge. [Kaggle Competition](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)
+A take on the Statoil/C-CORE Iceberg Classifier Challenge. [Kaggle Competition](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)
 
 
 ## Data Description 
