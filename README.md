@@ -5,7 +5,7 @@ A take on the Statoil Iceberg Classifier Challenge. [Kaggle Competition](https:/
 
 ## Data Description 
 
-(Sourced from [Kaggle](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/data)
+(Sourced from [Kaggle](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/data))
 
 In this competition, you will predict whether an image contains a ship or an iceberg. The labels are provided by human experts and geographic knowledge on the target. All the images are 75x75 images with two bands.
 
